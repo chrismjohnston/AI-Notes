@@ -1,4 +1,4 @@
-## Retrieval Augmented Generation
+### Retrieval Augmented Generation
 RAG is an advanced method that combines the strengths of generative AI models with external information retrieval mechanisms to address several limitations inherent in generative models.
 
 RAG addresses the limitations of generative AI models by retrieving relevant documents or data from a corpus before generating a response.
@@ -17,3 +17,17 @@ Google Cloud provides robust tools and frameworks for implementing RAG models, i
 + Vertex AI: It offers a comprehensive suite for building and deploying machine learning models, including support for RAG frameworks.
 
 + BigQuery: It allows efficient querying and retrieval of large datasets, providing a robust backend for the retrieval component of RAG models.
+
+### Adopting AI in Business
+General steps for adopting AI in business. 
+1. Set clear goals
+2. Identify suitable use cases
+3. Identify areas to apply AI
+4. Prepare data 
+    - collecting the data
+    - cleaning it
+    - organize it
+5. Build AI capabilities to train employees and develop the necessary setup. 
+6. Deploy AI solutions
+7. Integrate them with existing systems
+8. Monitor and optimize AI systems to ensure they work well
