@@ -1,0 +1,19 @@
+## Retrieval Augmented Generation
+RAG is an advanced method that combines the strengths of generative AI models with external information retrieval mechanisms to address several limitations inherent in generative models.
+
+RAG addresses the limitations of generative AI models by retrieving relevant documents or data from a corpus before generating a response.
+
+RAG incorporates a retrieval step to ensure that the generative model is grounded in actual data, thus reducing the risk of hallucinations.
+RAG has several applications, including:
+
+* Question-answering systems
+* Content creation
+* Customer support
+* Search engines
+
+### Google Cloud
+Google Cloud provides robust tools and frameworks for implementing RAG models, including Vertex AI and BigQuery. These platforms facilitate the integration of retrieval mechanisms with large language models (LLMs) , enabling the development of scalable and efficient RAG applications.
+
++ Vertex AI: It offers a comprehensive suite for building and deploying machine learning models, including support for RAG frameworks.
+
++ BigQuery: It allows efficient querying and retrieval of large datasets, providing a robust backend for the retrieval component of RAG models.
